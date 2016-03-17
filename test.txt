@@ -1,2 +1,5 @@
 Example Branch
 This is GIT
+
+
+Merging the code
