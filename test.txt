@@ -1,3 +1,2 @@
-Example Master
 Example Branch
 This is GIT
